@@ -31,6 +31,7 @@ public class Main {
             e.printStackTrace();
             ex.printStackTrace();
         }
+        System.out.println("ciao");
     }
 
     public Main() {
